@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/WSA/static/css/main.f122a32a.css",
+    "main.js": "/WSA/static/js/main.b364ba0b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/WSA/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Image1.png": "/WSA/static/media/Image1.e546d498bf4c81680072.png",
+    "static/media/Image4.png": "/WSA/static/media/Image4.04fa9e0a18c28dceb91b.png",
+    "static/media/Image3.png": "/WSA/static/media/Image3.acb84f1cba4ea844723c.png",
+    "static/media/Image5.png": "/WSA/static/media/Image5.a477b8be5eaaa95dcf08.png",
+    "static/media/Image2.png": "/WSA/static/media/Image2.0a76a75ea4a50c514a2e.png",
+    "static/media/Image7.png": "/WSA/static/media/Image7.d4d81f7374a20bdad74d.png",
+    "static/media/Pacifico-Regular.ttf": "/WSA/static/media/Pacifico-Regular.7bdf9e5e21239393db89.ttf",
+    "static/media/Comfortaa-Regular.ttf": "/WSA/static/media/Comfortaa-Regular.b926503ab6abe5ab9967.ttf",
+    "static/media/WSAlogo.png": "/WSA/static/media/WSAlogo.1db1cc59b392270e95ea.png",
+    "static/media/Outfit-VariableFont_wght.ttf": "/WSA/static/media/Outfit-VariableFont_wght.9ec1b160204760e0e316.ttf",
+    "static/media/Image6.png": "/WSA/static/media/Image6.0d92ed079feda47afd2f.png",
+    "static/media/S2.png": "/WSA/static/media/S2.f8b284606825ef45ad10.png",
+    "static/media/CarterOne-Regular.ttf": "/WSA/static/media/CarterOne-Regular.e265365315443b6eca5a.ttf",
+    "static/media/S1.png": "/WSA/static/media/S1.2e38a36aa10ed2cff630.png",
+    "static/media/Arvo-Regular.ttf": "/WSA/static/media/Arvo-Regular.e3d3d53c44db025c4592.ttf",
+    "static/media/guard.png": "/WSA/static/media/guard.181cc78477377fdd950c.png",
+    "static/media/lynx.png": "/WSA/static/media/lynx.96931227019662a7ca9c.png",
+    "static/media/syringe.png": "/WSA/static/media/syringe.9575551840ce703dd522.png",
+    "static/media/dog.png": "/WSA/static/media/dog.7146a8d133762ac12652.png",
+    "index.html": "/WSA/index.html",
+    "main.f122a32a.css.map": "/WSA/static/css/main.f122a32a.css.map",
+    "main.b364ba0b.js.map": "/WSA/static/js/main.b364ba0b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/WSA/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f122a32a.css",
+    "static/js/main.b364ba0b.js"
+  ]
+}
